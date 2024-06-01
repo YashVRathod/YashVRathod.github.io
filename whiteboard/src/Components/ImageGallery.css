@@ -1,0 +1,52 @@
+/* ImageGallery.css */
+body{
+  color:#f06;
+}
+
+
+h2 {
+  text-align: center;
+  padding: 20px;
+  color: #f06; /* Set header text color to white */
+}
+
+.image-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 15rem;
+}
+
+.image-card {
+  width: 300px; /* Adjust card width as needed */
+  border: 1px solid #ddd; /* Add border */
+  border-radius: 8px; /* Add border radius for rounded corners */
+  padding: 16px;
+  margin: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
+  transition: transform 0.3s ease-in-out;
+}
+
+.image-card:hover {
+  transform: translateY(-5px); /* Add a slight lift on hover */
+}
+
+.image-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px; /* Add border radius to image for rounded corners */
+}
+
+.image-card button {
+  margin-top: 16px;
+  padding: 8px 16px;
+  background-color: #f06;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.image-card button:hover {
+  background-color: #0056b3;
+}

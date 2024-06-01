@@ -1,0 +1,91 @@
+{
+  "hash": "0c06edf2",
+  "configHash": "37a597a0",
+  "lockfileHash": "05ee875e",
+  "browserHash": "028e737b",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "3cb0b8b6",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "3313dedf",
+      "needsInterop": true
+    },
+    "react-markdown": {
+      "src": "../../node_modules/react-markdown/index.js",
+      "file": "react-markdown.js",
+      "fileHash": "806d05db",
+      "needsInterop": false
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "47b15ddf",
+      "needsInterop": false
+    },
+    "reactflow": {
+      "src": "../../node_modules/reactflow/dist/esm/index.mjs",
+      "file": "reactflow.js",
+      "fileHash": "c4d1bc7d",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "d0aa6d44",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Add": {
+      "src": "../../node_modules/@mui/icons-material/Add.js",
+      "file": "@mui_icons-material_Add.js",
+      "fileHash": "6bef95fd",
+      "needsInterop": true
+    },
+    "html2canvas": {
+      "src": "../../node_modules/html2canvas/dist/html2canvas.esm.js",
+      "file": "html2canvas.js",
+      "fileHash": "d6f6e3f9",
+      "needsInterop": false
+    },
+    "jspdf": {
+      "src": "../../node_modules/jspdf/dist/jspdf.es.min.js",
+      "file": "jspdf.js",
+      "fileHash": "3a3d72b8",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "purify.es-Q6HDTDTB": {
+      "file": "purify__es-Q6HDTDTB.js"
+    },
+    "index.es-WUULG2TL": {
+      "file": "index__es-WUULG2TL.js"
+    },
+    "chunk-UHXP4MRI": {
+      "file": "chunk-UHXP4MRI.js"
+    },
+    "chunk-SITVF2AJ": {
+      "file": "chunk-SITVF2AJ.js"
+    },
+    "chunk-OOCFQ3FX": {
+      "file": "chunk-OOCFQ3FX.js"
+    },
+    "chunk-JMIEVVMK": {
+      "file": "chunk-JMIEVVMK.js"
+    },
+    "chunk-CZCRWWAH": {
+      "file": "chunk-CZCRWWAH.js"
+    },
+    "chunk-6P5PNMGD": {
+      "file": "chunk-6P5PNMGD.js"
+    },
+    "chunk-WXXH56N5": {
+      "file": "chunk-WXXH56N5.js"
+    }
+  }
+}
